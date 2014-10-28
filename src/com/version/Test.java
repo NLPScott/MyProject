@@ -16,6 +16,7 @@ public class Test {
 		// TODO Auto-generated method stub
            String name ="helo";
            String weather = "sunshine";
+           boolean tag = false;
 	}
 
 }
