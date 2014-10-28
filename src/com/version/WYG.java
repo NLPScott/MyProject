@@ -7,7 +7,7 @@ package com.version;
  * @author User
  *
  */
-public class Version2 {
+public class WYG {
 
 	/**
 	 * @param args
